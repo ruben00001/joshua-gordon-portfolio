@@ -51,3 +51,7 @@ SEO
     - currently is "Alesh Compton portfolio."
   - this appears in search engines.
   - info: https://developers.google.com/search/docs/appearance/snippet#:~:text=A%20meta%20description%20tag%20generally,what%20they're%20looking%20for.
+
+NEW GIT CLONE
+- npm i
+- npm run dev
